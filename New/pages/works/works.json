@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "zucc": "/components/zucc/zucc",
+    "zucc_low": "/components/zucc_low/zucc_low",
+    "knowzucc": "/components/knowzucc/knowzucc",
+    "science": "/components/science/science",
+    "people": "/components/people/people",
+    "new": "/components/new/new"
+  }
+}

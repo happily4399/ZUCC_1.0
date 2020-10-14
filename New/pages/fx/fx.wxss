@@ -1,0 +1,3 @@
+/* 海报模块 */
+.banner{ width: 100%;}
+.banner image{ width: 750rpx; display: block}

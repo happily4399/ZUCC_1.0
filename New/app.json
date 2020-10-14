@@ -1,0 +1,38 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/works/works",
+    "pages/dynamic/dynamic",
+    "pages/cs/cs",
+    "pages/xd/xd",
+    "pages/gc/gc",
+    "pages/fx/fx",
+    "pages/lb/lb",
+    "pages/yx/yx"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "测试作",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "selectedColor": "#FE9132",
+    "list":[
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/home.png",
+        "selectedIconPath": "images/home-h.png"
+      },{
+        "pagePath": "pages/works/works",
+        "text": "学院详情",
+        "iconPath": "images/user.png",
+        "selectedIconPath": "images/user-h.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

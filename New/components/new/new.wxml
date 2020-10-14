@@ -1,0 +1,89 @@
+<view class="dynamic">
+  <view class="container">
+    <view class="dyMain">
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="/images/new1.jpg"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            人民日报点赞！ZUCCer再入"西湖第十一景"
+          </view>
+          <view class="info">
+            <text>作者：</text>ZUCC<text space="ensp"> - </text><text>时间：</text>2020-10-12
+          </view>
+        </view>
+      </navigator>
+
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="https://s1.ax1x.com/2020/10/07/0aehWT.png"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            飒！全景直击“城城子”阅兵超燃现场
+          </view>
+          <view class="info">
+            <text>作者：</text>ZUCC<text space="ensp"> - </text><text>时间：</text>2020-10-12
+          </view>
+        </view>
+      </navigator>
+
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="https://s1.ax1x.com/2020/10/12/0RbYes.jpg"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            浙大城市学院举行2020级本科新生开学典礼
+          </view>
+          <view class="info">
+            <text>作者：</text>ZUCC<text space="ensp"> - </text><text>时间：</text>2020-10-12
+          </view>
+        </view>
+      </navigator>
+
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="https://s1.ax1x.com/2020/10/12/0RLQKg.jpg"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            学校举行2020年应征入伍大学生欢送会
+          </view>
+          <view class="info">
+            <text>作者：</text>ZUCC<text space="ensp"> - </text><text>时间：</text>2020-10-12
+          </view>
+        </view>
+      </navigator>
+
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="https://s1.ax1x.com/2020/10/12/0Rq2uQ.jpg"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            浙江大学社会科学研究院院长周江洪一行来校座谈交流
+          </view>
+          <view class="info">
+            <text>作者：</text>ZUCC<text space="ensp"> - </text><text>时间：</text>2020-10-12
+          </view>
+        </view>
+      </navigator>
+
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="https://s1.ax1x.com/2020/10/12/0RLcPx.jpg"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            今天，这场"速度与激情"的较量在浙大城市学院上演！
+          </view>
+          <view class="info">
+            <text>作者：</text>ZUCC<text space="ensp"> - </text><text>时间：</text>2020-10-12
+          </view>
+        </view>
+      </navigator>
+    </view>
+  </view>
+</view>

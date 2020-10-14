@@ -1,0 +1,20 @@
+/* 首部模块 */
+.header{widows: 750rpx;height: 90rpx; background-color: #0e86D3} 
+.hdCon{ display: flex; justify-content: space-between; align-items: center;
+height: 100%;}
+.hdCon navigator, .hdCon .kefu{ height: 70rpx;}
+.hdCon image{ height: 100%;}
+.kefu{ position: relative; animation: dh linear 2s infinite alternate;}
+.kefu .btn{position: absolute; width: 100%; height: 100%; top: 0; left: 0;
+opacity: 0; }
+
+/* 海报模块 */
+.banner{ width: 100%;}
+.banner image{ width: 750rpx; display: block}
+
+/* 底部学校图标模块 */
+.line{background: #f2f2f2; width: 100%; height: 5rpx;}
+
+.footer{ padding: 30rpx 0; text-align: center;}
+.footer .pic{width: 80rpx;}
+.footer .text{font-size: 25rpx;color: #666;}

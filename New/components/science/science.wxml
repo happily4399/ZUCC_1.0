@@ -1,0 +1,61 @@
+<view class="dynamic">
+  <view class="container">
+    <view class="dyMain">
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="/images/zuccedc.png"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            重点学科
+          </view>
+          <view class="info">
+            <text>作者：</text>ZUCC<text space="ensp"> - </text><text>时间：</text>2020-10-12
+          </view>
+        </view>
+      </navigator>
+
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="/images/sc1.jpg"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            重点实验室
+          </view>
+          <view class="info">
+            <text>作者：</text>ZUCC<text space="ensp"> - </text><text>时间：</text>2020-10-12
+          </view>
+        </view>
+      </navigator>
+
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="/images/sc2.jpg"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            科研机构
+          </view>
+          <view class="info">
+            <text>作者：</text>ZUCC<text space="ensp"> - </text><text>时间：</text>2020-10-12
+          </view>
+        </view>
+      </navigator>
+
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="/images/sc3.jpg"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            学术期刊
+          </view>
+          <view class="info">
+            <text>作者：</text>ZUCC<text space="ensp"> - </text><text>时间：</text>2020-10-12
+          </view>
+        </view>
+      </navigator>
+    </view>
+  </view>
+</view>

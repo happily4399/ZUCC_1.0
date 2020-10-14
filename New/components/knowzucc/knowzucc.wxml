@@ -1,0 +1,89 @@
+<view class="dynamic">
+  <view class="container">
+    <view class="dyMain">
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="/images/zuccedc.png"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            学校简介
+          </view>
+          <view class="info">
+            <text>作者：</text>ZUCC<text space="ensp"> - </text><text>时间：</text>2020-10-12
+          </view>
+        </view>
+      </navigator>
+
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="/images/science.jpg"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            教学科研机构
+          </view>
+          <view class="info">
+            <text>作者：</text>ZUCC<text space="ensp"> - </text><text>时间：</text>2020-10-12
+          </view>
+        </view>
+      </navigator>
+
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="/images/untitled.png"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            学校机构
+          </view>
+          <view class="info">
+            <text>作者：</text>ZUCC<text space="ensp"> - </text><text>时间：</text>2020-10-12
+          </view>
+        </view>
+      </navigator>
+
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="/images/lwd.jpg"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            现任领导
+          </view>
+          <view class="info">
+            <text>作者：</text>ZUCC<text space="ensp"> - </text><text>时间：</text>2020-10-12
+          </view>
+        </view>
+      </navigator>
+
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="/images/lingdao.jpg"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            历任领导
+          </view>
+          <view class="info">
+            <text>作者：</text>ZUCC<text space="ensp"> - </text><text>时间：</text>2020-10-12
+          </view>
+        </view>
+      </navigator>
+
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="/images/timg.jpg"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            学校风景
+          </view>
+          <view class="info">
+            <text>作者：</text>ZUCC<text space="ensp"> - </text><text>时间：</text>2020-10-12
+          </view>
+        </view>
+      </navigator>
+    </view>
+  </view>
+</view>

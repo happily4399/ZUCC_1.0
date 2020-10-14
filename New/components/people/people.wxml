@@ -1,0 +1,33 @@
+<view class="dynamic">
+  <view class="container">
+    <view class="dyMain">
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="/images/people1.jpg"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            本科生教育
+          </view>
+          <view class="info">
+            <text>作者：</text>ZUCC<text space="ensp"> - </text><text>时间：</text>2020-10-12
+          </view>
+        </view>
+      </navigator>
+
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="/images/people2.jpg"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            研究生教育
+          </view>
+          <view class="info">
+            <text>作者：</text>ZUCC<text space="ensp"> - </text><text>时间：</text>2020-10-12
+          </view>
+        </view>
+      </navigator>
+    </view>
+  </view>
+</view>

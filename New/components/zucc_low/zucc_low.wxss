@@ -1,0 +1,6 @@
+/* 底部学校图标模块 */
+.line{background: #f2f2f2; width: 100%; height: 5rpx;}
+
+.footer{ padding: 30rpx 0; text-align: center;}
+.footer .pic{width: 80rpx;}
+.footer .text{font-size: 25rpx;color: #666;}

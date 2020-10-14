@@ -1,0 +1,13 @@
+.tabs{
+  height: 80rpx; box-shadow: 0 10rpx 10rpx rgba(0,0,0,0.05);border-top:1rpx solid #efefef; white-space: nowrap;
+}
+.tabs_title{
+  display: flex;
+}
+.title_item{
+  display: inline-block; line-height: 80rpx; width:150rpx; text-align: center; font-size:30rpx; position: relative; padding-left: 25rpx; padding-right: 25rpx;
+}
+.active{
+  color:#0e86D3;
+}
+.active::after{content: ""; display: block; width:40rpx; height: 5rpx; background:#0e86D3; position: absolute; left:50%; margin-left:-20rpx; bottom:0;}

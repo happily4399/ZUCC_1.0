@@ -1,0 +1,223 @@
+<zucc></zucc>
+
+<view class="banner">
+  <swiper indicator-dots indicator-color="rgba(255,255,255,0.5)"
+  indicator-active-color="#fff" circular autoplay interval="4000">
+    <swiper-item><image src="https://s1.ax1x.com/2020/10/06/0Nl0BQ.png"></image></swiper-item>
+    <swiper-item><image src="https://s1.ax1x.com/2020/10/06/0N1n5n.png"></image></swiper-item>
+    <swiper-item><image src="https://s1.ax1x.com/2020/10/06/0N1Q2V.png"></image></swiper-item>
+    <swiper-item><image src="https://s1.ax1x.com/2020/10/06/0N18rF.png"></image></swiper-item>
+  </swiper>
+</view>
+
+<scroll-view class="major" scroll-x>
+  <navigator class="box" url="/pages/cs/cs">
+    <image class="pic" src="https://s1.ax1x.com/2020/10/06/0N8Uc6.jpg"></image>
+    <view class="txt">计算分院</view>
+  </navigator>
+
+  <navigator class="box" url="/pages/xd/xd">
+    <image class="pic" src="https://s1.ax1x.com/2020/10/06/0N8t91.jpg"></image>
+    <view class="txt">信电分院</view>
+  </navigator>
+
+  <navigator class="box" url="/pages/gc/gc">
+    <image class="pic" src="https://s1.ax1x.com/2020/10/06/0NYEAe.jpg"></image>
+    <view class="txt">工程分院</view>
+  </navigator>
+
+  <navigator class="box" url="/pages/fx/fx">
+    <image class="pic" src="https://s1.ax1x.com/2020/10/06/0N8wnO.jpg"></image>
+    <view class="txt">法学分院</view>
+  </navigator>
+
+  <navigator class="box" url="/pages/yx/yx">
+    <image class="pic" src="https://s1.ax1x.com/2020/10/06/0N80BD.jpg"></image>
+    <view class="txt">医学分院</view>
+  </navigator>
+
+  <navigator class="box" url="/pages/lb/lb">
+    <image class="pic" src="https://s1.ax1x.com/2020/10/06/0N8KXT.jpg"></image>
+    <view class="txt">图书馆</view>
+  </navigator>
+</scroll-view>
+
+<view class="works">
+  <view class="container">
+    <view class="pubTitle">
+      <view class="txt">学院详情</view>
+      <navigator class="more">更多 >></navigator>
+    </view>
+  
+    <view class="wkMain">
+      <navigator class="box" open-type="reLaunch" url="/pages/works/works?id=0">
+        <image class="pic" src="https://s1.ax1x.com/2020/10/06/0NBJl4.jpg"></image>
+        <view class="ceng">
+          <view class="title">认识城院</view>
+          <view class="line"></view>
+          <view class="des">Get to know ZUCC</view>
+        </view>
+      </navigator>
+
+      <navigator class="box"open-type="reLaunch" url="/pages/works/works?id=1">
+        <image class="pic" src="https://s1.ax1x.com/2020/10/06/0NgN80.jpg"></image>
+        <view class="ceng">
+          <view class="title">科学研究</view>
+          <view class="line"></view>
+          <view class="des">scientific research</view>
+        </view>
+      </navigator>
+
+      <navigator class="box" open-type="reLaunch" url="/pages/works/works?id=2">
+        <image class="pic" src="https://s1.ax1x.com/2020/10/06/0N2EsU.jpg"></image>
+        <view class="ceng">
+          <view class="title">人才培养</view>
+          <view class="line"></view>
+          <view class="des">personnel training</view>
+        </view>
+      </navigator>
+
+      <navigator class="box" open-type="reLaunch" url="/pages/works/works?id=3">
+        <image class="pic" src="https://s1.ax1x.com/2020/10/06/0N23QK.jpg"></image>
+        <view class="ceng">
+          <view class="title">新闻报道</view>
+          <view class="line"></view>
+          <view class="des">News report</view>
+        </view>
+      </navigator>
+
+      <navigator class="box" open-type="reLaunch" url="/pages/works/works?id=4">
+        <image class="pic" src="https://s1.ax1x.com/2020/10/06/0NRSOO.jpg"></image>
+        <view class="ceng">
+          <view class="title">综合服务</view>
+          <view class="line"></view>
+          <view class="des">Integrated services</view>
+        </view>
+      </navigator>
+
+      <navigator class="box" open-type="reLaunch" url="/pages/works/works?id=5">
+        <image class="pic" src="https://s1.ax1x.com/2020/10/06/0NRJ10.jpg"></image>
+        <view class="ceng">
+          <view class="title">师资队伍</view>
+          <view class="line"></view>
+          <view class="des">teaching staff</view>
+        </view>
+      </navigator>
+
+      <navigator class="box" open-type="reLaunch" url="/pages/works/works?id=6">
+        <image class="pic" src="https://s1.ax1x.com/2020/10/06/0N5LkD.jpg"></image>
+        <view class="ceng">
+          <view class="title">走进校园</view>
+          <view class="line"></view>
+          <view class="des">Enter the campus</view>
+        </view>
+      </navigator>
+      
+      <navigator class="box" open-type="reLaunch" url="/pages/works/works?id=7">
+        <image class="pic" src="https://s1.ax1x.com/2020/10/06/0NIlAU.png"></image>
+        <view class="ceng">
+          <view class="title">招生咨询</view>
+          <view class="line"></view>
+          <view class="des">Enrollment</view>
+        </view>
+      </navigator>
+    </view>
+  </view>
+</view>
+
+<view class="dynamic">
+  <view class="container">
+    <view class="pubTitle">
+      <view class="txt">高校动态</view>
+      <navigator class="more">更多 >></navigator>
+    </view>
+
+    <view class="dyMain">
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="https://s1.ax1x.com/2020/10/07/0aZWxe.jpg"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            月是中秋圆 | 包饺子、话家常，共庆佳节
+          </view>
+          <view class="info">
+            <text>作者：</text>学生工作部<text space="ensp"> - </text><text>时间：</text>2020-09-30
+          </view>
+        </view>
+      </navigator>
+
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="https://s1.ax1x.com/2020/10/07/0aehWT.png"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            飒！全景直击“城城子”阅兵超燃现场
+          </view>
+          <view class="info">
+            <text>作者：</text>城院<text space="ensp"> - </text><text>时间：</text>2020-9-28
+          </view>
+        </view>
+      </navigator>
+
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="https://s1.ax1x.com/2020/10/07/0amm6g.jpg"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            浙大学者发现永久性脑缺血的潜在治疗新策略
+          </view>
+          <view class="info">
+            <text>作者：</text>卢绍庆<text space="ensp"> - </text><text>时间：</text>2020-09-17
+          </view>
+        </view>
+      </navigator>
+
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="https://s1.ax1x.com/2020/10/06/0N5LkD.jpg"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            杭电会计学院——基层团组织青马工程这么做
+          </view>
+          <view class="info">
+            <text>作者：</text>杭电<text space="ensp"> - </text><text>时间：</text>2020-09-30
+          </view>
+        </view>
+      </navigator>
+
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="https://s1.ax1x.com/2020/10/07/0anPvF.jpg"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            杭电团队研发毫米波通信芯片 成华为5G通信供应商之一
+          </view>
+          <view class="info">
+            <text>作者：</text>童笑雨<text space="ensp"> - </text><text>时间：</text>2020-07-09
+          </view>
+        </view>
+      </navigator>
+
+      <navigator class="dyItem">
+        <view class="pic">
+          <image src="https://s1.ax1x.com/2020/10/07/0anKgO.jpg"></image>
+        </view>
+        <view class="txt">
+          <view class="title">
+            浙师大与海康威视签署战略合作协议
+          </view>
+          <view class="info">
+            <text>作者：</text>赵菡婧<text space="ensp"> - </text><text>时间：</text>2020-06-09
+          </view>
+        </view>
+      </navigator>
+    </view>
+  </view>
+</view>
+
+<zucc_low></zucc_low>

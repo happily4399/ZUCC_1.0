@@ -1,0 +1,21 @@
+<zucc></zucc>
+
+<scroll-view class="tabs" scroll-x scroll-with-animation>
+  <view class="tabs_title">
+    <view 
+    wx:for="{{tabs}}" 
+    wx:key="id" 
+    bindtap="handleTap"
+    data-index="{{index}}"
+    class="title_item {{item.isActive?'active':''}}" 
+    >
+      {{item.value}}
+    </view>
+  </view>
+  <view class="tabs_content"></view>
+</scroll-view>
+<block wx:if="{{tabs[0].isActive}}"><knowzucc/></block>
+<block wx:if="{{tabs[1].isActive}}"><science/></block>
+<block wx:if="{{tabs[2].isActive}}"><people/></block>
+<block wx:if="{{tabs[3].isActive}}"><new/></block>
+<zucc_low></zucc_low>
